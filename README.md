@@ -1,0 +1,1 @@
+# latexstudio-auto-sign
